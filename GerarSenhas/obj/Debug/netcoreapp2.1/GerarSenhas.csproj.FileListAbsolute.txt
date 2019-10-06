@@ -1,0 +1,11 @@
+C:\Users\Gian\source\repos\GerarSenhas\GerarSenhas\bin\Debug\netcoreapp2.1\GerarSenhas.deps.json
+C:\Users\Gian\source\repos\GerarSenhas\GerarSenhas\bin\Debug\netcoreapp2.1\GerarSenhas.runtimeconfig.json
+C:\Users\Gian\source\repos\GerarSenhas\GerarSenhas\bin\Debug\netcoreapp2.1\GerarSenhas.runtimeconfig.dev.json
+C:\Users\Gian\source\repos\GerarSenhas\GerarSenhas\bin\Debug\netcoreapp2.1\GerarSenhas.dll
+C:\Users\Gian\source\repos\GerarSenhas\GerarSenhas\bin\Debug\netcoreapp2.1\GerarSenhas.pdb
+C:\Users\Gian\source\repos\GerarSenhas\GerarSenhas\obj\Debug\netcoreapp2.1\GerarSenhas.csprojAssemblyReference.cache
+C:\Users\Gian\source\repos\GerarSenhas\GerarSenhas\obj\Debug\netcoreapp2.1\GerarSenhas.csproj.CoreCompileInputs.cache
+C:\Users\Gian\source\repos\GerarSenhas\GerarSenhas\obj\Debug\netcoreapp2.1\GerarSenhas.AssemblyInfoInputs.cache
+C:\Users\Gian\source\repos\GerarSenhas\GerarSenhas\obj\Debug\netcoreapp2.1\GerarSenhas.AssemblyInfo.cs
+C:\Users\Gian\source\repos\GerarSenhas\GerarSenhas\obj\Debug\netcoreapp2.1\GerarSenhas.dll
+C:\Users\Gian\source\repos\GerarSenhas\GerarSenhas\obj\Debug\netcoreapp2.1\GerarSenhas.pdb
